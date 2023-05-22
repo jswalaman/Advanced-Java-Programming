@@ -18,7 +18,7 @@ class Bus extends Vehicle{
         System.out.println("Bus engine");
     }
 }
-class Main{
+class Abstraction{
     public static void main(String[] args){
         Vehicle v1 = new Car();
         v1.engine();
