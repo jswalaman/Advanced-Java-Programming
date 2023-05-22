@@ -31,9 +31,9 @@ class Main{
     }
 }
 
-Output:
+/* Output:
 
 Car engine
 Car engine
 Bus engine
-Bus engine
+Bus engine */
