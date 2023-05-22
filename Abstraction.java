@@ -1,6 +1,6 @@
 /* Abstraction basically means hiding sensitive information and only displaying the required information to the user. There are basically two main components in abstraction - abstract method and abstract class*/
 
-Code Snippet :
+/* Code Snippet :*/
 
 abstract class Vehicle{
     abstract void engine();
