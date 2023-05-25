@@ -24,3 +24,5 @@ public class FrameExample{
         frame.setVisible(true);
     }
 }
+
+/* Output */
